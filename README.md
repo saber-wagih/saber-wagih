@@ -22,20 +22,20 @@
 <a href="https://linkedin.com/in/saberwagih" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=HTML5)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=react)
-![RDBMS](https://img.shields.io/badge/-RDBMS-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)
+![RDBMS](https://img.shields.io/badge/-RDBMS-05122A?style=flat&logoRDBMS=563D7C)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL)&nbsp;
-![Database&SQL](https://img.shields.io/badge/-Database&SQL-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Relational Database Adminstration](https://img.shields.io/badge/-RDA-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Database&SQL](https://img.shields.io/badge/-Database&SQL-05122A?style=flat&logo=DSQL=563D7C)&nbsp;
+![Relational Database Adminstration](https://img.shields.io/badge/-RDA-05122A?style=flat&logo=RDA&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=MongoDB)&nbsp;
+![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=Postgresql)&nbsp;
 
 
 
