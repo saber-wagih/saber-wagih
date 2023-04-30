@@ -19,8 +19,8 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/saberwagih" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/saberwagih" target="_blank"><img src="https://img.shields.io/badge/-Saber%20Wagih-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/saberwagih" target="_blank"><img src="https://img.shields.io/badge/-Saber%20Wagih-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
