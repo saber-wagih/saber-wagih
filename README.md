@@ -29,7 +29,7 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=react)
 ![RDBMS](https://img.shields.io/badge/-RDBMS-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MongoDB)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL)&nbsp;
 ![Database&SQL](https://img.shields.io/badge/-Database&SQL-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Relational Database Adminstration](https://img.shields.io/badge/-RDA-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
